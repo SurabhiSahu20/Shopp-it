@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Dhriti143/ShoppIt.git
+   git clone [https://github.com/SurabhiSahu20/Shopp-it]
    ```
 2. Open the index.html file in your web browser.
 3. Explore the ShoppIt website and enjoy the user-friendly experience!
